@@ -6,3 +6,7 @@ Investigación y pruebas sobre el comportamiento de la syscall **futex** como pa
 * Padrón: 102749
 * Mail: mparafati@fi.uba.ar
 * Materia: Sistemas Operativos
+
+## Links útiles
+* [man](https://man7.org/linux/man-pages/man2/futex.2.html)
+* [wikipedia](https://en.wikipedia.org/wiki/Futex)

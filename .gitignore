@@ -1,1 +1,7 @@
-# futex git ignore
+# excluding files without extension
+*
+!/**/
+!*.*
+
+# particular exclusions
+*.o
