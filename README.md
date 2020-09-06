@@ -10,3 +10,4 @@ Investigación y pruebas sobre el comportamiento de la syscall **futex** como pa
 ## Links útiles
 * [man](https://man7.org/linux/man-pages/man2/futex.2.html)
 * [wikipedia](https://en.wikipedia.org/wiki/Futex)
+* [basics of futexes](https://eli.thegreenplace.net/2018/basics-of-futexes)
