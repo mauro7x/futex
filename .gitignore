@@ -5,3 +5,7 @@
 
 # particular exclusions
 *.o
+*.json
+
+# vscode
+.vscode
