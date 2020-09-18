@@ -9,3 +9,6 @@
 
 # vscode
 .vscode
+
+# temporary exclusions
+/code
