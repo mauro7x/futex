@@ -30,7 +30,7 @@ Investigación y pruebas sobre el comportamiento de la syscall **futex** como pa
 - [ ] [Synchronization primitives (Linux Insides)](https://0xax.gitbooks.io/linux-insides/content/SyncPrim/)
 
 #### Videos
-- [ ] [The Multicore Evolutio nand Operating Systems](https://www.youtube.com/watch?v=Ht6UPeQtFgo&ab_channel=uwaterloo)
+- [ ] [The Multicore Evolution and Operating Systems](https://www.youtube.com/watch?v=Ht6UPeQtFgo&ab_channel=uwaterloo)
 
 #### Papers
 - [ ] [Non-scalable locks are dangerous](docs/kernel/Non_scalable_locks_are_dangerous.pdf) *(vinculado con el video "The Multicore Evolutio nand Operating Systems")*
