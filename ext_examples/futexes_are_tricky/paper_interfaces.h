@@ -6,7 +6,9 @@
 /* Firmas de los métodos esperados por el código del paper */
 
 void futex_wake(int* futex_addr, int nwake);
+void futex_wake(unsigned int* futex_addr, int nwake);
 void futex_wait(int* futex_addr, int val);
+void futex_wait(unsigned int* futex_addr, int val);
 int atomic_inc(int& val);
 int atomic_dec(int& val);
 int cmpxchg(int& val, int old_v, int new_v);
