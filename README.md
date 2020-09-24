@@ -16,13 +16,13 @@ Investigación y pruebas sobre el comportamiento de la syscall **futex** como pa
 
 #### Articulos
 - [x] [Basics of Futexes](https://eli.thegreenplace.net/2018/basics-of-futexes)
-- [ ] [A futex overview and update](https://lwn.net/Articles/360699/)
+- [x] [A futex overview and update](https://lwn.net/Articles/360699/)
 - [ ] [FUTEX_SWAP (nueva primitiva)](https://lwn.net/Articles/826860/)
 
 #### Papers (userspace)
 - [x] [Fuss, Futexes and Furwocks: Fast Userlevel Locking in Linux](docs/userspace/Fuss_Futexes_and_Furwocks_Fast_Userlevel_Locking_in_Linux.pdf)
 - [x] [Futexes Are Tricky](docs/userspace/Futexes_are_Tricky.pdf)
-- [ ] [Futex based locks for C11's generic atomics (extended abstract)](docs/userspace/Futex_based_locks_for_C11s_generic_atomics.pdf)
+- [x] [Futex based locks for C11's generic atomics (extended abstract)](docs/userspace/Futex_based_locks_for_C11s_generic_atomics.pdf)
 
 ### Bibliografía (dirección: kernel)
 
